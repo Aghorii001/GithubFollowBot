@@ -1,7 +1,6 @@
 from selenium import webdriver
 import time
 import sys
-import recommendations
 importlib.reload()
 from importlib import reload
 
